@@ -2,7 +2,7 @@ replicaCount: 1
 
 image:
   repository: ghcr.io/hashilbasheer/static-apps
-  tag: latest
+  tag: b14d6fe
 
 service:
   port: 80
