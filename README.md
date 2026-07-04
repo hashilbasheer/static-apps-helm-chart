@@ -1,0 +1,1 @@
+# static-apps-helm-chart
