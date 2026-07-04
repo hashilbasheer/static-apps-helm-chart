@@ -1,0 +1,15 @@
+replicaCount: 1
+
+image:
+  repository: ghcr.io/hashilbasheer/static-apps
+  tag: latest
+
+service:
+  port: 80
+
+httproute:
+  enabled: true
+  gatewayName: external-gw
+  gatewayNamespace: nginx-gateway
+  sectionName: https
+  hostname: static-app.hashil.online
