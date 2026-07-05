@@ -10,5 +10,3 @@ httproute:
   gatewayNamespace: nginx-gateway
   sectionName: https
   hostname: static-app.hashil.online
-images:
-  tag: 6487f5d
