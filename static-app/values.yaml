@@ -1,7 +1,7 @@
 replicaCount: 1
 
 image:
-  repository: ghcr.io/hashilbasheer/static-apps
+  repository: ghcr.io/hashilbasheer/static-cicd-demo
   tag: b14d6fe
 
 service:
