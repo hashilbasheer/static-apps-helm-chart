@@ -2,7 +2,7 @@ replicaCount: 1
 
 image:
   repository: ghcr.io/hashilbasheer/static-cicd-demo
-  tag: 3cac17c
+  tag: 1cc3a45
 
 service:
   port: 80
