@@ -1,7 +1,7 @@
 replicaCount: 1
 image:
   repository: ghcr.io/hashilbasheer/static-cicd-demo
-  tag: cab3086
+  tag: 34aec0e
 service:
   port: 80
 httproute:
